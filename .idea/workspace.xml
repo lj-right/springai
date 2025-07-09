@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4198a74-7d2b-4077-9904-b742587628b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ym FIle" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\aiLib" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectId" id="2zPJ3vnNk2fdyZ56Uz9H0kg7XGY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/springai_all/src/main/java/com/suifeng/ai" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springai_all/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\SpringAiProjecct\springai_all\src\main\resources" />
+      <recent name="D:\Code\SpringAiProjecct\springai_rag\src\main\resources" />
+      <recent name="D:\Code\SpringAiProjecct\springai_image\src\main" />
+      <recent name="D:\Code\SpringAiProjecct\springai_alibaba\src\main\resources" />
+      <recent name="D:\Code\SpringAiProjecct\springai_alibaba\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.suifeng.ai.config" />
+      <recent name="com.suifeng.ai" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringAiApplication">
+    <configuration name="SpringAiAllApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springai_all" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suifeng.ai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.suifeng.ai.SpringAiAllApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springai_alibaba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suifeng.ai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.suifeng.ai.SpringAiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAiRagApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springai_rag" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suifeng.ai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.suifeng.ai.SpringAiRagApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAlibabaAiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springai_alibaba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suifeng.ai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.suifeng.ai.SpringAlibabaAiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAlibabaImageAiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springai_image" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suifeng.ai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.suifeng.ai.SpringAlibabaImageAiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringAiApplication" />
+        <item itemvalue="Spring Boot.SpringAlibabaAiApplication (1)" />
+        <item itemvalue="Spring Boot.SpringAiAllApplication" />
+        <item itemvalue="Spring Boot.SpringAiRagApplication" />
+        <item itemvalue="Spring Boot.SpringAlibabaImageAiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringConfigurationTabSettings">
+    <option name="sortAlpha" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4198a74-7d2b-4077-9904-b742587628b4" name="Default Changelist" comment="" />
+      <created>1751626579616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751626579616</updated>
+      <workItem from="1751626581184" duration="3141000" />
+      <workItem from="1751630515556" duration="843000" />
+      <workItem from="1751631407869" duration="14852000" />
+      <workItem from="1751875551764" duration="7543000" />
+      <workItem from="1751889090644" duration="7394000" />
+      <workItem from="1751963733968" duration="7566000" />
+      <workItem from="1752024241269" duration="7824000" />
+      <workItem from="1752064097759" duration="1554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../apache-maven-3.6.3/aiLib/org/springframework/ai/spring-ai-core/1.0.0-M5/spring-ai-core-1.0.0-M5.jar!/org/springframework/ai/chat/prompt/Prompt.class</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

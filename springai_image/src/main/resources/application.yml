@@ -1,0 +1,8 @@
+server:
+  port: 8899
+spring:
+  application:
+    name: spring-ai-deepseek-demo
+  ai:
+    dashscope:
+      api-key: your-api-key

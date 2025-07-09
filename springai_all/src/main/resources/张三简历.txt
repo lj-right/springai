@@ -1,0 +1,7 @@
+精通Java语言，深入理解JVM原理、多线程、集合框架及性能调优，熟悉JDK新特性。
+熟练使用Spring全家桶（Spring Boot、Spring Cloud、Spring MVC、Spring Security）及MyBatis等主流框架。
+掌握分布式系统开发，熟悉微服务架构（Dubbo、Spring Cloud Alibaba），具备高并发、高可用系统设计经验。
+熟悉MySQL数据库设计与优化，了解Redis、MongoDB等NoSQL技术，掌握分库分表方案。
+熟悉消息中间件（Kafka、RabbitMQ）、搜索引擎（Elasticsearch）及容器化技术（Docker、Kubernete）。
+熟悉Linux系统操作及Shell脚本编写，掌握CI/CD流程（Jenkins、GitLab CI）。
+了解前端技术（HTML/CSS/JavaScript、Vue.js），能与前端团队高效协作。

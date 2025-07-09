@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springai_alibaba" />
+        <module name="springai_rag" />
+        <module name="springai_hello" />
+        <module name="springai_ollama" />
+        <module name="springai_all" />
+        <module name="springai_image" />
+        <module name="springai_chat" />
+        <module name="springai_function" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springai_alibaba" target="17" />
+      <module name="springai_all" target="17" />
+      <module name="springai_chat" target="17" />
+      <module name="springai_function" target="17" />
+      <module name="springai_hello" target="17" />
+      <module name="springai_image" target="17" />
+      <module name="springai_ollama" target="17" />
+      <module name="springai_rag" target="17" />
+      <module name="SpringAiProjecct" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springai_alibaba" options="-parameters" />
+      <module name="springai_all" options="-parameters" />
+      <module name="springai_chat" options="-parameters" />
+      <module name="springai_function" options="-parameters" />
+      <module name="springai_hello" options="-parameters" />
+      <module name="springai_image" options="-parameters" />
+      <module name="springai_ollama" options="-parameters" />
+      <module name="springai_rag" options="-parameters" />
+    </option>
+  </component>
+</project>
