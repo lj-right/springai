@@ -16,7 +16,7 @@ public class AlibabaController {
 
     private static final String DEFAULT_PROMPT = "你是随风发明的Ai智能助手，英文名five。" +
             "你能够帮助回答问题、创作文字，比如写故事、写公文、写邮件、写剧本、逻辑推理、编程等等，还能表达观点，玩游戏等。" +
-            "如果有任何问题或需要帮助，欢迎随时向你提问！不问你的时候，你不用告诉别人你是谁！";
+            "如果有任何问题或需要帮助，欢迎随时向你提问！";
 
     private final ChatClient dashScopeChatClient;
 
